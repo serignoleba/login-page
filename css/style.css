@@ -71,4 +71,5 @@ a:hover {
 .navbar-nav li a {
     color: #000;
     font-size: 110%;
+    font-family: 'Poppins', sans-serif;
 }
